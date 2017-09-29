@@ -12,8 +12,8 @@ app.get('/', (req,res) => {
 	res.render('index')
 })
 
-const port = process.env.PORT || 3000
-app.listen(3000, function (){
+const port = process.env.PORT || 3000
+app.listen(port, function (){
 	console.log('App acting as port 3000! Visit localhost:3000 in Chrome')
 })
 
