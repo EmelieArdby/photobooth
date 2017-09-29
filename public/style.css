@@ -1,0 +1,40 @@
+canvas {
+	display: none;
+
+}
+
+body {
+	background-color: green;
+}
+
+h1 {
+	color: pink;
+	text-align: center;
+}
+
+h2 {
+	color: pink;
+	text-align: center;
+}
+
+
+video {
+	margin-right: auto;
+}
+
+canvas {
+	margin-right: auto;
+}
+
+
+button{
+	background-color: pink;
+	padding: 15px;
+	font: bold;
+	font-size: 20px;
+	border-color: black;
+	text-align: center;
+	align-content: center;
+}
+
+
